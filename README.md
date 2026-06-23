@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/misterio-de-amor-vol-2/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Misterio de amor, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/misterio-de-amor-vol-2/) |
+| **Get License** | [Official Music Licensing for Misterio de amor, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/misterio-de-amor-vol-2/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `09dc2c3f96e51b9eec3a86186d1ce0415b898ad0f8dab32763d26dd56e18ab8b` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
